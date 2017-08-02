@@ -7,7 +7,7 @@
 # me a headstart on my assembly course next semester (even though that
 # uses x86-64, not MIPS).
 #
-# Written in MARS: http://courses.missouristate.edu/KenVollmar/mars/
+# Written with MARS: http://courses.missouristate.edu/KenVollmar/mars/
 
 # Data to be used
 .data
