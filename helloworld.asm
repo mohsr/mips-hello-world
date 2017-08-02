@@ -2,10 +2,10 @@
 # Written by:  Mohsin Rizvi
 # Last edited: 08/02/17
 # 
-# This is my first program writting in MIPS (or any assembly language),
-# and I am writing it because assembly is really cool, and maybe it'll
-# give me a headstart on my assembly course next semester (even though
-# that uses x86-64, not MIPS).
+# This is my first program writting in MIPS (or any assembly language)!
+# I am writing it because assembly is really cool, and maybe it'll give
+# me a headstart on my assembly course next semester (even though that
+# uses x86-64, not MIPS).
 #
 # Written in MARS: http://courses.missouristate.edu/KenVollmar/mars/
 
