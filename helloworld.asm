@@ -14,7 +14,7 @@
     # Declare and initialize my_str
     my_str:
         .asciiz
-        "Hello World!\n"
+        "Hello world!\n"
 
 # Instructions to be executed
 .text
