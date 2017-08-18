@@ -19,9 +19,9 @@
 # Instructions to be executed
 .text
 main:
-    # Set syscall to print string (4)
+    # Set syscall to print string (4) using register v0
     li $v0, 4
-    # Load address of my_str
+    # Load address of my_str into argument register a0
     la $a0, my_str
     # Execute the syscall
     syscall
