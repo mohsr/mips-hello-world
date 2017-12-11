@@ -3,9 +3,10 @@
 # Last edited: 08/02/17
 # 
 # This is my first program writting in MIPS (or any assembly language)!
-# I am writing it because assembly is really cool, and maybe it'll give
-# me a headstart on my assembly course next semester (even though that
-# uses x86-64, not MIPS).
+# I am writing it because low-level programming is really cool, and maybe
+# it'll give me a headstart on my assembly course next semester (even
+# though that uses x86-64 and another language built for learning, not 
+# MIPS).
 #
 # Written with MARS: http://courses.missouristate.edu/KenVollmar/mars/
 
