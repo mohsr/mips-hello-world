@@ -1,6 +1,6 @@
 # helloworld.asm
 # Written by:  Mohsin Rizvi
-# Last edited: 08/02/17
+# Last edited: 12/11/17 - Changed Comments
 # 
 # This is my first program writting in MIPS (or any assembly language)!
 # I am writing it because low-level programming is really cool, and maybe
